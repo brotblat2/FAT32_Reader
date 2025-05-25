@@ -4,9 +4,15 @@ This Java program allows users to interactively browse and inspect the contents 
 Once running, you can enter commands in a shell-like prompt:
 
 /] INFO
+
 /] LS
+
 /] STAT MYFILE.TXT
+
 /] SIZE README.TXT
+
 /] CD DOCS
+
 /] READ MYFILE.TXT 0 100
+
 /] STOP
